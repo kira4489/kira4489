@@ -2,14 +2,6 @@
 
 Estoy estudiando un bootcamp de 9 semanas en enfasis de programacion de react/Node js
 
-You can find me on [!Twitter[1.2]].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-
-
-[1]: https://twitter.com/jhonatan0090
 
 <!--
 **kira4489/kira4489** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
