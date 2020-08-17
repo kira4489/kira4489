@@ -1,9 +1,4 @@
-### Jhonatan Quirama Pino 👋
-_________________________________________
-
-Sobre mi
-__________________________________________________
-
+### Jhonatan Quirama Pino 👋:technologist:
 
 Estoy estudiando un bootcamp de 9 semanas en enfasis de programacion de react/Node js
 
