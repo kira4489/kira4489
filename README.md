@@ -1,4 +1,6 @@
 ### Hola, Me llamo Jhonatan Quirama Pino 👋
+__________________________________________________
+
 
 Estoy estudiando un bootcamp de 9 semanas en enfasis de programacion de react/Node js
 
