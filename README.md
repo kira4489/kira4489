@@ -1,6 +1,6 @@
-### Hola, Me llamo Jhonatan Quirama Pino 
+### Hola, Me llamo Jhonatan Quirama Pino 👋
 
-Estoy estudiando un bootcamp de 9 semanas en enfasis de programacion de react/Node js👋
+Estoy estudiando un bootcamp de 9 semanas en enfasis de programacion de react/Node js
 
 <!--
 **kira4489/kira4489** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
