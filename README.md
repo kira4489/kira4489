@@ -2,7 +2,7 @@
 
 Estoy estudiando un bootcamp de 9 semanas en enfasis de programacion de react/Node js
 
-You can find me on [![Twitter][1.2]].
+You can find me on [!Twitter[1.2]].
 
 <!-- Icons -->
 
