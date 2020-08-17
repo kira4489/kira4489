@@ -1,4 +1,7 @@
-### Hola, Me llamo Jhonatan Quirama Pino 👋
+### Jhonatan Quirama Pino 👋
+_________________________________________
+
+Sobre mi
 __________________________________________________
 
 
