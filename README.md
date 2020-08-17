@@ -2,8 +2,11 @@
 
 Estoy estudiando un bootcamp de 9 semanas en enfasis de programacion de react/Node js
 
-<!-- Actual text -->
+You can find me on [![Twitter][1.2]].
 
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 
 [1]: https://twitter.com/jhonatan0090
