@@ -1,4 +1,4 @@
-### Jhonatan Quirama Pino 👋:technologist:
+### Jhonatan Quirama Pino <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> :technologist:
 
 Estoy estudiando un bootcamp de 9 semanas en enfasis de programacion de react/Node js
 
